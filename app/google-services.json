@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837951619622",
+    "project_id": "asmrestapi-5515a",
+    "storage_bucket": "asmrestapi-5515a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837951619622:android:59b0bcfc78c09fbb075ce7",
+        "android_client_info": {
+          "package_name": "com.ncthuong.asm_ph31749"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMUsTHmfzFny66k5LWTG7TqxRrxxNmN78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
